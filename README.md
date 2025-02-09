@@ -8,9 +8,9 @@ Seu equilíbrio financeiro começa aqui!
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=go&message=finance&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/MrRioja/gofinances?color=blueviolet&logo=License&style=for-the-badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/gofinances?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/gofinances?color=blueviolet&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/SenhorSchiavon/gofinances?color=blueviolet&logo=License&style=for-the-badge"/>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SenhorSchiavon/gofinances?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SenhorSchiavon/gofinances?color=blueviolet&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/gofinances.git
+$ git clone git@github.com:SenhorSchiavon/gofinances.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd gofinances
@@ -98,21 +98,15 @@ $ yarn test
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mrrioja" target="_blank">
+<a href="https://github.com/SenhorSchiavon" target="_blank">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:lulyrioja@gmail.com?subject=Fala%20Dev" target="_blank">
+<a href="mailto:schiavonjohn@gmail.com?subject=Fala%20Dev" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511933572652" target="_blank">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 
-<a href="https://join.skype.com/invite/tvBbOq03j5Uu" target="_blank">
-<img alt="Skype" src="https://img.shields.io/badge/SKYPE-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
-</a>
 
 <br/>
 <br/>
