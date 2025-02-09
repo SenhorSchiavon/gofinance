@@ -88,13 +88,13 @@ $ yarn test
 ## Autor
 
 <div align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55336456?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" />
-<h1>Luiz Rioja</h1>
-<strong>Backend Developer</strong>
+<img src="https://github.com/SenhorSchiavon" />
+<h1>João Lucas Schiavon</h1>
+<strong>Mobile Developer</strong>
 <br/>
 <br/>
 
-<a href="https://linkedin.com/in/luizrioja" target="_blank">
+<a href="https://linkedin.com/in/joão-lucas-schiavon-b0582519a/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
