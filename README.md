@@ -88,7 +88,7 @@ $ yarn test
 ## Autor
 
 <div align="center">
-<img src="https://github.com/SenhorSchiavon" />
+<img src="https://avatars.githubusercontent.com/u/98478831?s=96&v=4" />
 <h1>João Lucas Schiavon</h1>
 <strong>Mobile Developer</strong>
 <br/>
